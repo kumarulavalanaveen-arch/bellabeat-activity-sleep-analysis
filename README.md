@@ -48,4 +48,5 @@ across 33 users.
 - Reduce sedentary alerts — avg user sits 15+ hours/day
 
 ## 🔗 Dataset Source
-[Bellabeat Fitbit Data — Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit)
+Data analyzed during internship at LABMENTIX.
+Raw dataset not included for confidentiality.
